@@ -2,7 +2,7 @@
 
 ### Dashboard Link
 
-https://public.tableau.com/views/YOUR_TABLEAU_DASHBOARD_LINK
+[https://public.tableau.com/views/YOUR_TABLEAU_DASHBOARD_LINK](https://public.tableau.com/app/profile/adarsh.prajapati5912/viz/Book1_17660784718660/TableauDashboard)
 
 ---
 
